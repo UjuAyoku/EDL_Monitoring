@@ -96,7 +96,7 @@ Source Systems
        │
        ├──────────────► Security
        │
-       └──────────────► Monitoring
+       └──────────────► Monitoring (SLA Breaches, Failures)
                               │
                 ┌─────────────┴─────────────┐
                 │                           │
@@ -116,6 +116,70 @@ Source Systems
 ---
 
 ## Key Capabilities Delivered
+
+### Data Discovery & Classification
+
+Established capabilities to improve understanding and management of enterprise data assets.
+
+Key areas included:
+
+* Data source discovery
+* Identification of relevant data assets
+* Data classification
+* Identification of sensitive and regulated information
+* Support for governance and compliance requirements
+* Improved visibility into the data landscape
+
+The capability provided a foundation for understanding what data exists, where it originates, how it is used, and how it should be governed.
+
+### Data Quality & Accuracy
+
+Implemented monitoring capabilities focused on the accuracy, completeness, consistency, timeliness, outliers, and reliability of data flowing through the platform.
+
+Capabilities included:
+
+* Data quality validation
+* Quality thresholds and rules
+* Monitoring of critical data conditions
+* Identification of data quality exceptions
+* Automated escalation when thresholds were exceeded
+* Improved confidence in downstream reporting
+
+The objective was to move data quality from a reactive troubleshooting activity toward **proactive monitoring and exception management**.
+
+### Data Lineage & Traceability
+
+Implemented data lineage and traceability capabilities to provide visibility into the movement and transformation of data.
+
+This supported the ability to understand:
+
+```text
+Source
+  │
+  ▼
+Ingestion
+  │
+  ▼
+Transformation
+  │
+  ▼
+Curated Data
+  │
+  ▼
+Analytics / Reporting
+```
+
+Lineage capabilities improved:
+
+* Data traceability
+* Understanding of data origins
+* Visibility into transformations
+* Impact analysis
+* Troubleshooting
+* Governance
+* Audit readiness
+
+This provided greater confidence in where data came from, how it was transformed, and where it was ultimately consumed.
 
 ### Data Engineering
 
