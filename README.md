@@ -336,7 +336,7 @@ Responsibilities included:
 
 ## Technology & Capability Areas
 
-`Project Recovery` `Data Engineering` `Medallion Architecture` `Data Pipelines` `Pipeline Orchestration` `Data Observability` `Monitoring` `Alerting` `Incident Management` `Jira` `ServiceNow` `Data Quality` `Data Governance` `Data Security` `Power BI` `Analytics` `Privacy` `PIPEDA` `SOX` `HIPAA` `Project Management` `Stakeholder Management`
+`Project Recovery` `Data Engineering` `Medallion Architecture` `Data Pipelines` `Pipeline Orchestration` `Data Observability` `Monitoring` `Data Retention` `Alerting` `Incident Management` `Jira` `ServiceNow` `Data Quality` `PII Masking` `RBAC` `Data Governance` `Data Security` `Power BI` `Analytics` `Privacy` `PIPEDA` `SOX` `HIPAA` `Project Management` `Stakeholder Management` `Executive Reporting` `Governance`
 
 ---
 
