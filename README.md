@@ -162,33 +162,6 @@ When defined data quality or monitoring thresholds were exceeded, the solution a
 This created a closed-loop operational process:
 
 ```text
-Data Pipeline
-     │
-     ▼
-Monitoring
-     │
-     ▼
-Threshold Evaluation
-     │
- ┌───┴────┐
- │        │
-Pass    Breach
- │        │
- ▼        ▼
-Continue  Alert
-          │
-          ▼
-   Email Notification
-          │
-          ▼
-   Automated Ticket
-          │
-      ┌───┴────┐
-      ▼        ▼
-    Jira   ServiceNow
-```
-
-```text
 Data / Pipeline Event
          │
          ▼
