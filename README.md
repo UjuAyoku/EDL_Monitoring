@@ -186,6 +186,10 @@ Continue  Alert
       ┌───┴────┐
       ▼        ▼
     Jira   ServiceNow
+      │           │
+      └─────┬─────┘
+            ▼
+     Issue Resolution
 ```
 
 This reduced dependence on manual detection and escalation and provided a more structured mechanism for responding to data and pipeline issues.
