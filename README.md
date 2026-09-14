@@ -1,6 +1,6 @@
 # EDL Monitoring Platform & Data Analytics
 
-> **Project Recovery | Data Transformation | Data Engineering | Observability | Governance | Compliance | Power BI**
+> **Project Recovery | Data Transformation | Data Engineering | Observability | Security | Retention | Governance | Privacy | Compliance | Power BI **
 
 ## Overview
 
